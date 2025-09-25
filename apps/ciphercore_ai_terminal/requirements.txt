@@ -1,0 +1,4 @@
+customtkinter
+pygame
+python-dotenv
+google-generativeai
