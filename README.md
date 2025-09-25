@@ -1,5 +1,8 @@
 # 🖥️ Desktop Utility Apps
 
+[![Download latest](https://img.shields.io/github/v/release/AghaEssa/desktop-utility-apps?label=download%20latest%20release)](https://github.com/AghaEssa/desktop-utility-apps/releases/latest)
+
+
 A collection of lightweight desktop applications built with **Python** and packaged into standalone executables with **PyInstaller**.  
 Each app is designed to be user-friendly, portable, and easy to install on Windows.
 
